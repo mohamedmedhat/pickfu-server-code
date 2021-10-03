@@ -6,7 +6,7 @@ The server is also shipped with socket.io to handle live answers, you can browse
 
 **How to install **
 
-download the code, open the code project with your favourite IDE and run npm install
+download the code, open the code project with your favorite IDE and run npm install
 to start the server,  run npm start command on port 3000
 and to start the api run (node tools/apiserver.js) on port 3001
 
