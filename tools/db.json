@@ -1,0 +1,78 @@
+{
+  "values": [
+    {
+      "id": 1,
+      "value": "My First Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": 2,
+      "value": "My Second Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": 3,
+      "value": "My Third Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": 4,
+      "value": "My 4th Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": 5,
+      "value": "My 5th Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": 6,
+      "value": "My 6th Answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633273909475
+    },
+    {
+      "id": "0d62595b-cf0f-4ffc-90ee-a84e929a3e1a",
+      "value": "my answer",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633277781693,
+      "createdAt": 1633277781721
+    },
+    {
+      "id": "c238033a-dc7b-464a-82e1-314f11740001",
+      "value": "safari anser",
+      "user": {
+        "id": "anon",
+        "name": "Anonymous"
+      },
+      "time": 1633277805162,
+      "createdAt": 1633277805168
+    }
+  ]
+}
